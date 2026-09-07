@@ -10,15 +10,6 @@ The project demonstrates an end-to-end workflow covering **data preprocessing, N
 🚀 **Live Application:**
 https://movies-recommendation-system-h40h.onrender.com/
 ---
-## 🖼️ Demo Screenshot
-
-```markdown
-![Movie Recommendation System](assets/demo.png) ![alt text](image.png)
-```
-
-> The screenshot should show the movie selection interface and generated recommendations.
-
----
 
 ## 🎯 Problem Statement
 
